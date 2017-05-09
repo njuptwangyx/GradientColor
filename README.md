@@ -39,3 +39,5 @@ Some beautiful gradient color.
                     ];
 
 ```
+
+![](https://github.com/njuptwangyx/GradientColor/blob/master/Simulator%20Screen%20Shot.png?raw=true)
